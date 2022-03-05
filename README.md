@@ -1,7 +1,7 @@
 # PoP - Assignment 9
 PoP - 9g
 
-Don't be stupid...
+This assignment was about reading and writing to files. In this case, we were tasked with concatting, reversing, and countring the amount of hyperlinks in a file.
 
 # PoP - 9g
 
@@ -9,7 +9,7 @@ Don't be stupid...
 ## Kode
 
 
-Biblioteket readNWrite compiles med fsharpc:
+The library is compiled with fsharpc;
 
 	$ fsharpc -a readNWrite.fs
 
@@ -26,7 +26,7 @@ cat.fsx, tac.fsx og countLinks.fsx compiles med fsharpc og køres med mono:
 
 
 
-Eksempler på kørsel af programmer;
+Examples of running the programs;
 	
 	cat:
 	$ mono cat.exe a.txt
@@ -38,6 +38,6 @@ Eksempler på kørsel af programmer;
 	$ mono tac.exe a.txt b.txt
 	$ mono tac.exe a.txt b.txt c.txt
 	
-	countLinks (OBS: HTTPS hjemmesider er IKKE understøttede.):
+	countLinks (NOTE: HTTPS websites are NOT supported):
 	$ mono countLinks.exe http://info.cern.ch/
 	$ mono countLinks.exe http://fsprojects.github.io/
