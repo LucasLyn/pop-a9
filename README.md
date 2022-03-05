@@ -1,7 +1,7 @@
 # PoP - Assignment 9
 PoP - 9g
 
-This assignment was about reading and writing to files. In this case, we were tasked with concatting, reversing, and countring the amount of hyperlinks in a file.
+This assignment was about reading and writing to/from files. In this case, we were tasked with concatting, reversing, and countring the amount of hyperlinks in a file.
 
 # PoP - 9g
 
