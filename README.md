@@ -27,6 +27,7 @@ cat.fsx, tac.fsx og countLinks.fsx compiles med fsharpc og køres med mono:
 
 
 Eksempler på kørsel af programmer;
+	
 	cat:
 	$ mono cat.exe a.txt
 	$ mono cat.exe a.txt b.txt
